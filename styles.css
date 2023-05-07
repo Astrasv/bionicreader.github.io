@@ -253,7 +253,7 @@ span{
 }
 
 #input-text , #output-text{
-    width: 42vw;
+    width: 38vw;
     height: 60vh;
     color: var(--bg-color);
     margin:3rem;
